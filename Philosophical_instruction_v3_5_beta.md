@@ -1,5 +1,5 @@
 # Philosophical instruction v3.5 Beta (Merged Legacy Artifacts from 10.2)
-## Autonomous AI Agent — Vorontsov Edition
+## Autonomous AI Agent
 
 **Версия:** 3.5 Beta · **Статус:** АКТИВНА
 **Дата:** 07.04.2025
