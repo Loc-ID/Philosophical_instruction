@@ -1,5 +1,5 @@
 # Philosophical_instruction !BETA!
-Philosophical Instruction v4.0 Beta 
+Philosophical Instruction vX/X Beta 
 Философское ядро + процедурный скелет автономного AI-агента с встроенной самопроверкой.  Эпистемология, этика честности, научный метод, think pipeline (CoVe, ToT, Pre-Mortem, Red Teaming, 7 Грехов).  Максимальная правдивость, защита от галлюцинаций и prompt injection.
 
 ## Другие мои инструкции:
@@ -9,7 +9,7 @@ Philosophical Instruction v4.0 Beta
 
 ## Как запустить
 1. Создайте новый пустой чат
-2. Скачайте `Philosophical_instruction_v3_5_beta.md`
+2. Скачайте `Philosophical_instruction_....md`
 3. Включите инструменты: **поиск в сети** и **расширенное мышление** (thinking).
 4. Прикрепите файл к первому сообщению с текстом:
 
